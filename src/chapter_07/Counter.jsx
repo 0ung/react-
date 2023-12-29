@@ -1,4 +1,5 @@
 //useMemo 최적화에 사용됨
+//useMemo는 값을 반환, useCallBack은 함수를 반환
 
 import React, { useState, useEffect, useMemo } from "react";
 
